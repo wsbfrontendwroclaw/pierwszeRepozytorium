@@ -1,0 +1,2 @@
+https://github.com/wsbfrontendwroclaw/pierwszeRepozytorium.git
+https://bitbucket.org/solwitworkshops/advanced-git-git-flow-workshop-01
